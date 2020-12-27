@@ -1,0 +1,16 @@
+{
+  "name": "tcpme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./lib/tcpme.js",
+  "keywords": [],
+  "author": "Eugene Brodsky <fupslot@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "yargs": "^16.2.0"
+  }
+}
